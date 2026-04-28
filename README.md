@@ -4,7 +4,7 @@
 
 <div id="spanish">
   <p align="center">
-    <b>Ingeniero en Inteligencia Artificial | Desarrollador Full Stack | Analista SAP
+    <b>Ingeniero en Inteligencia Artificial | Analista de Sistemas/Datos | Desarrollador Full Stack | Analista SAP</b> 
     Me especializo en el ciclo completo de los datos: desde la extracción y limpieza hasta la creación de modelos predictivos y dashboards de alto impacto. 
     Como Analista de Sistemas y SAP, tengo experiencia gestionando flujos de información complejos y optimizando bases de datos para asegurar que cada bit cuente. 
     Mi enfoque como desarrollador es crear soluciones escalables, integrando backends robustos con interfaces modernas que simplemente funcionan.
@@ -15,7 +15,7 @@
 
 <div id="english">
   <p align="center">
-    <b>AI Engineer | Full Stack Developer | SAP Analyst</b> 
+    <b>AI Engineer | Data & System Analyst | Fullstack Developer | SAP Analyst</b> 
     I specialize in the end-to-end data lifecycle: from extraction and cleaning to building predictive models and high-impact dashboards. 
     As a Systems and SAP Analyst, I have experience managing complex information flows and optimizing databases to ensure every bit counts. 
     My focus as a developer is building scalable solutions, integrating robust backends with modern interfaces that just work.
