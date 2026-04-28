@@ -1,12 +1,19 @@
+<p align="right">
+  <a href="#spanish"><img src="https://img.shields.io/badge/Leer%20en-Español-es?style=flat-square" alt="Spanish"></a>
+  <a href="#english"><img src="https://img.shields.io/badge/Read%20in-English-en?style=flat-square" alt="English"></a>
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Victor Benavides </h1>
 
 <div id="spanish">
   <p align="center">
-    Ingeniero en Inteligencia Artificial enfocado en que los datos industriales realmente sirvan para algo. <br>
-    Vengo de trabajar en Cintas de México optimizando datos operativos y peleándome con SAP para que todo cuadre. <br>
-    Me gusta automatizar lo aburrido y encontrar patrones donde otros solo ven desorden.
+    <b>Ingeniero en Inteligencia Artificial | Desarrollador Full Stack | Analista SAP</b> [cite: 2, 33] <br><br>
+    Me especializo en el ciclo completo de los datos: desde la extracción y limpieza hasta la creación de modelos predictivos y dashboards de alto impacto. [cite: 49, 50] <br>
+    Como Analista de Sistemas y SAP, tengo experiencia gestionando flujos de información complejos y optimizando bases de datos para asegurar que cada bit cuente. [cite: 15, 51, 52] <br>
+    Mi enfoque como desarrollador es crear soluciones escalables, integrando backends robustos con interfaces modernas que simplemente funcionan. [cite: 53, 54]
   </p>
 </div>
 
@@ -14,13 +21,15 @@
 
 <div id="english">
   <p align="center">
-    AI Engineer focused on making industrial data actually useful. <br>
-    Recently at Cintas de México, I spent my time optimizing operational data and managing SAP workflows. <br>
-    I enjoy automating the boring stuff and finding patterns where others just see a mess.
+    <b>AI Engineer | Full Stack Developer | SAP Analyst</b> [cite: 2, 33] <br><br>
+    I specialize in the end-to-end data lifecycle: from extraction and cleaning to building predictive models and high-impact dashboards. [cite: 49, 50] <br>
+    As a Systems and SAP Analyst, I have experience managing complex information flows and optimizing databases to ensure every bit counts. [cite: 15, 51, 52] <br>
+    My focus as a developer is building scalable solutions, integrating robust backends with modern interfaces that just work. [cite: 53, 54]
   </p>
 </div>
 
-
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bvictorbenavides%7D/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbenavides&layout=compact&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=victorbenavides&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=victorbenavides&theme=chartreuse-dark"></p>
