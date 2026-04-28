@@ -2,54 +2,78 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Victor Benavides </h1>
 
-<div id="spanish">
-  <p align="center">
-    <b>Ingeniero en Inteligencia Artificial | Analista de Sistemas/Datos | Desarrollador Full Stack | Analista SAP</b> 
-    Me especializo en el ciclo completo de los datos: desde la extracción y limpieza hasta la creación de modelos predictivos y dashboards de alto impacto. 
-    Como Analista de Sistemas y SAP, tengo experiencia gestionando flujos de información complejos y optimizando bases de datos para asegurar que cada bit cuente. 
-    Mi enfoque como desarrollador es crear soluciones escalables, integrando backends robustos con interfaces modernas que simplemente funcionan.
-  </p>
+<p align="center">
+  <b>Ingeniero en Inteligencia Artificial | Analista de Datos & Sistemas Jr | SAP Analyst | Full Stack Developer</b>
+</p>
+
+<div align="center">
+  <a href="https://linkedin.com/in/benavidesvictor"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://victorbenavides.github.io/Portafolio"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="mailto:victor.benavides.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🇲🇽 Español</h3>
+      Ingeniero enfocado en la <b>optimización de entornos industriales y tecnológicos</b>[cite: 8, 33]. Especialista en transformar datos crudos en decisiones estratégicas mediante IA, automatización y análisis en SAP[cite: 15, 27, 49].
+      <ul>
+        <li><b>Experiencia Industrial:</b> Gestión de datos maestros en SAP (MM, PP, SD) y mejora de procesos operativos[cite: 15, 52].</li>
+        <li><b>Core Técnico:</b> Creación de Dashboards (OEE/KPIs), modelos de Machine Learning y automatización con Python/VBA[cite: 17, 21, 53].</li>
+        <li><b>Full Stack:</b> Desarrollo de aplicaciones escalables con arquitecturas modernas[cite: 54].</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🇺🇸 English</h3>
+      Engineer focused on <b>optimizing industrial and technological environments</b>[cite: 8, 33]. Specialist in transforming raw data into strategic decisions through AI, automation, and SAP analysis[cite: 15, 27, 49].
+      <ul>
+        <li><b>Industrial Experience:</b> SAP Master Data management (MM, PP, SD) and operational process improvement[cite: 15, 52].</li>
+        <li><b>Technical Core:</b> Dashboard creation (OEE/KPIs), Machine Learning models, and automation with Python/VBA[cite: 17, 21, 53].</li>
+        <li><b>Full Stack:</b> Scalable application development using modern architectures[cite: 54].</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
-<div id="english">
-  <p align="center">
-    <b>AI Engineer | Data & System Analyst | Fullstack Developer | SAP Analyst</b> 
-    I specialize in the end-to-end data lifecycle: from extraction and cleaning to building predictive models and high-impact dashboards. 
-    As a Systems and SAP Analyst, I have experience managing complex information flows and optimizing databases to ensure every bit counts. 
-    My focus as a developer is building scalable solutions, integrating robust backends with modern interfaces that just work.
-  </p>
-</div>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=victorbenavides&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=victorbenavides&theme=chartreuse-dark"></p>
+### 🚀 ¿En qué me especializo?
 
-### 🛠 &nbsp;Tech Stack
+* [cite_start]**Análisis & Business Intelligence:** Dominio de KPIs operativos, limpieza de datos y visualización avanzada en Power BI[cite: 49, 50]. [cite_start]He logrado reducciones de tiempos de captura de hasta el **50%**[cite: 10, 17].
+* [cite_start]**SAP & Ecosistemas ERP:** Experiencia validando flujos de producción y datos maestros, reduciendo errores operativos significativamente[cite: 15, 52].
+* [cite_start]**Automatización e IA:** Implementación de flujos con Power Automate, scripts en Python para procesamiento de lenguaje natural y modelos predictivos[cite: 29, 53].
+* [cite_start]**Desarrollo de Software:** Creación de herramientas integrales (Frontend + Backend) para monitoreo de producción en tiempo real[cite: 23, 54].
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![SAP](https://img.shields.io/badge/-SAP-05122A?style=flat&logo=sap&logoColor=008FD3)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi&logoColor=F2C811)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel&logoColor=217346)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=05998B)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=013243)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
+### 🛠️ Tech Stack
 
-### :link: &nbsp;Connect with me
+**Data & Automation**
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-SAP-05122A?style=flat&logo=sap&logoColor=008FD3" />
+  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/-Excel_VBA-05122A?style=flat&logo=microsoft-excel&logoColor=217346" />
+  <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458" />
+</p>
 
-<p align="center">
-<a href="https://victorbenavides.github.io/Portafolio"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/benavidesvictor"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:victor.benavides.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+**Full Stack Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=05998B" />
+  <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120" />
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+</p>
+
+<hr>
+
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=victorbenavides&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=victorbenavides&theme=chartreuse-dark" width="400">
 </p>
 
 ---
-Last Updated On: 27/04/2026
+*Last Updated On: 27/04/2026*
