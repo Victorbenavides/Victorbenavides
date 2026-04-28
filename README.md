@@ -15,16 +15,12 @@
 
 <div id="english">
   <p align="center">
-    <b>AI Engineer | Full Stack Developer | SAP Analyst</b> [cite: 2, 33] <br><br>
+    <b>AI Engineer | Full Stack Developer | SAP Analyst</b> 
     I specialize in the end-to-end data lifecycle: from extraction and cleaning to building predictive models and high-impact dashboards. 
     As a Systems and SAP Analyst, I have experience managing complex information flows and optimizing databases to ensure every bit counts. 
     My focus as a developer is building scalable solutions, integrating robust backends with modern interfaces that just work.
   </p>
 </div>
-
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bvictorbenavides%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbenavides&layout=compact&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=victorbenavides&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=victorbenavides&theme=chartreuse-dark"></p>
 
