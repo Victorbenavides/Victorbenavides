@@ -18,7 +18,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🇲🇽 Español</h3>
-      Ingeniero enfocado en la <b>optimización de entornos industriales y tecnológicos</b>[cite: 8, 33]. Especialista en transformar datos crudos en decisiones estratégicas mediante IA, automatización y análisis en SAP
+      Ingeniero enfocado en la <b>optimización de entornos industriales y tecnológicos</b>. Especialista en transformar datos crudos en decisiones estratégicas mediante IA, automatización y análisis en SAP
       <ul>
         <li><b>Experiencia Industrial:</b> Gestión de datos maestros en SAP (MM, PP, SD) y mejora de procesos operativos</li>
         <li><b>Core Técnico:</b> Creación de Dashboards (OEE/KPIs), modelos de Machine Learning y automatización con Python/VBA.</li>
