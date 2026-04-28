@@ -41,10 +41,10 @@
 
 ### 🚀 ¿En qué me especializo?
 
-* [cite_start]**Análisis & Business Intelligence:** Dominio de KPIs operativos, limpieza de datos y visualización avanzada en Power BI. He logrado reducciones de tiempos de captura de hasta el **50%**.
-* [cite_start]**SAP & Ecosistemas ERP:** Experiencia validando flujos de producción y datos maestros, reduciendo errores operativos significativamente[cite: 15, 52].
-* [cite_start]**Automatización e IA:** Implementación de flujos con Power Automate, scripts en Python para procesamiento de lenguaje natural y modelos predictivos[cite: 29, 53].
-* [cite_start]**Desarrollo de Software:** Creación de herramientas integrales (Frontend + Backend) para monitoreo de producción en tiempo real[cite: 23, 54].
+* **Análisis & Business Intelligence:** Dominio de KPIs operativos, limpieza de datos y visualización avanzada en Power BI. He logrado reducciones de tiempos de captura de hasta el **50%**.
+* **SAP & Ecosistemas ERP:** Experiencia validando flujos de producción y datos maestros, reduciendo errores operativos significativamente.
+* **Automatización e IA:** Implementación de flujos con Power Automate, scripts en Python para procesamiento de lenguaje natural y modelos predictivos.
+* **Desarrollo de Software:** Creación de herramientas integrales (Frontend + Backend) para monitoreo de producción en tiempo real.
 
 ### 🛠️ Tech Stack
 
