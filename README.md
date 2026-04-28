@@ -18,20 +18,20 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🇲🇽 Español</h3>
-      Ingeniero enfocado en la <b>optimización de entornos industriales y tecnológicos</b>[cite: 8, 33]. Especialista en transformar datos crudos en decisiones estratégicas mediante IA, automatización y análisis en SAP[cite: 15, 27, 49].
+      Ingeniero enfocado en la <b>optimización de entornos industriales y tecnológicos</b>[cite: 8, 33]. Especialista en transformar datos crudos en decisiones estratégicas mediante IA, automatización y análisis en SAP
       <ul>
-        <li><b>Experiencia Industrial:</b> Gestión de datos maestros en SAP (MM, PP, SD) y mejora de procesos operativos[cite: 15, 52].</li>
-        <li><b>Core Técnico:</b> Creación de Dashboards (OEE/KPIs), modelos de Machine Learning y automatización con Python/VBA[cite: 17, 21, 53].</li>
-        <li><b>Full Stack:</b> Desarrollo de aplicaciones escalables con arquitecturas modernas[cite: 54].</li>
+        <li><b>Experiencia Industrial:</b> Gestión de datos maestros en SAP (MM, PP, SD) y mejora de procesos operativos</li>
+        <li><b>Core Técnico:</b> Creación de Dashboards (OEE/KPIs), modelos de Machine Learning y automatización con Python/VBA.</li>
+        <li><b>Full Stack:</b> Desarrollo de aplicaciones escalables con arquitecturas modernas</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🇺🇸 English</h3>
-      Engineer focused on <b>optimizing industrial and technological environments</b>[cite: 8, 33]. Specialist in transforming raw data into strategic decisions through AI, automation, and SAP analysis[cite: 15, 27, 49].
+      Engineer focused on <b>optimizing industrial and technological environments</b>. Specialist in transforming raw data into strategic decisions through AI, automation, and SAP analysis.
       <ul>
-        <li><b>Industrial Experience:</b> SAP Master Data management (MM, PP, SD) and operational process improvement[cite: 15, 52].</li>
-        <li><b>Technical Core:</b> Dashboard creation (OEE/KPIs), Machine Learning models, and automation with Python/VBA[cite: 17, 21, 53].</li>
-        <li><b>Full Stack:</b> Scalable application development using modern architectures[cite: 54].</li>
+        <li><b>Industrial Experience:</b> SAP Master Data management (MM, PP, SD) and operational process improvement.</li>
+        <li><b>Technical Core:</b> Dashboard creation (OEE/KPIs), Machine Learning models, and automation with Python/VBA.</li>
+        <li><b>Full Stack:</b> Scalable application development using modern architectures.</li>
       </ul>
     </td>
   </tr>
@@ -41,7 +41,7 @@
 
 ### 🚀 ¿En qué me especializo?
 
-* [cite_start]**Análisis & Business Intelligence:** Dominio de KPIs operativos, limpieza de datos y visualización avanzada en Power BI[cite: 49, 50]. [cite_start]He logrado reducciones de tiempos de captura de hasta el **50%**[cite: 10, 17].
+* [cite_start]**Análisis & Business Intelligence:** Dominio de KPIs operativos, limpieza de datos y visualización avanzada en Power BI. He logrado reducciones de tiempos de captura de hasta el **50%**.
 * [cite_start]**SAP & Ecosistemas ERP:** Experiencia validando flujos de producción y datos maestros, reduciendo errores operativos significativamente[cite: 15, 52].
 * [cite_start]**Automatización e IA:** Implementación de flujos con Power Automate, scripts en Python para procesamiento de lenguaje natural y modelos predictivos[cite: 29, 53].
 * [cite_start]**Desarrollo de Software:** Creación de herramientas integrales (Frontend + Backend) para monitoreo de producción en tiempo real[cite: 23, 54].
