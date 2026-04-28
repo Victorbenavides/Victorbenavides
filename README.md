@@ -1,9 +1,3 @@
-<p align="right">
-  <a href="#spanish"><img src="https://img.shields.io/badge/Leer%20en-Español-es?style=flat-square" alt="Spanish"></a>
-  <a href="#english"><img src="https://img.shields.io/badge/Read%20in-English-en?style=flat-square" alt="English"></a>
-</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Victor Benavides </h1>
