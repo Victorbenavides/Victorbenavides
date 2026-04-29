@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Victor Benavides </h1>
 
 <p align="center">
-  <b>Ingeniero en Inteligencia Artificial | Analista de Datos & Sistemas Jr | SAP Analyst /b>
+  <b>Ingeniero en Inteligencia Artificial | Analista de Datos & Sistemas Jr | SAP Analyst </b>
 </p>
 
 <div align="center">
