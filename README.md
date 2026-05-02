@@ -39,14 +39,14 @@
 
 <hr>
 
-### 🚀 ¿En qué me especializo?
+### ¿En qué me especializo?
 
 * **Análisis & Business Intelligence:** Dominio de KPIs operativos, limpieza de datos y visualización avanzada en Power BI. He logrado reducciones de tiempos de captura de hasta el **50%**.
 * **SAP & Ecosistemas ERP:** Experiencia validando flujos de producción y datos maestros, reduciendo errores operativos significativamente.
 * **Automatización e IA:** Implementación de flujos con Power Automate, scripts en Python para procesamiento de lenguaje natural y modelos predictivos.
 * **Desarrollo de Software:** Creación de herramientas integrales (Frontend + Backend) para monitoreo de producción en tiempo real.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Data & Automation**
 <p align="left">
