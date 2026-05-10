@@ -22,7 +22,6 @@
       <ul>
         <li><b>Experiencia Industrial:</b> Gestión de datos maestros en SAP (MM, PP, SD) y mejora de procesos operativos</li>
         <li><b>Core Técnico:</b> Creación de Dashboards (OEE/KPIs), modelos de Machine Learning y automatización con Python/VBA.</li>
-        <li><b>Full Stack:</b> Desarrollo de aplicaciones escalables con arquitecturas modernas</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -31,7 +30,6 @@
       <ul>
         <li><b>Industrial Experience:</b> SAP Master Data management (MM, PP, SD) and operational process improvement.</li>
         <li><b>Technical Core:</b> Dashboard creation (OEE/KPIs), Machine Learning models, and automation with Python/VBA.</li>
-        <li><b>Full Stack:</b> Scalable application development using modern architectures.</li>
       </ul>
     </td>
   </tr>
@@ -43,9 +41,7 @@
 
 * **Análisis & Business Intelligence:** Dominio de KPIs operativos, limpieza de datos y visualización avanzada en Power BI. He logrado reducciones de tiempos de captura de hasta el **50%**.
 * **SAP & Ecosistemas ERP:** Experiencia validando flujos de producción y datos maestros, reduciendo errores operativos significativamente.
-* **Automatización e IA:** Implementación de flujos con Power Automate, scripts en Python para procesamiento de lenguaje natural y modelos predictivos.
-* **Desarrollo de Software:** Creación de herramientas integrales (Frontend + Backend) para monitoreo de producción en tiempo real.
-
+* **Automatización e IA:** Implementación de flujos con Power Automate, scripts en Python para procesamiento de lenguaje natural y modelos predictivos
 ### Tech Stack
 
 **Data & Automation**
