@@ -66,7 +66,7 @@ Engineer focused on <b>optimizing industrial and technological processes</b> thr
 
 <hr>
 
-<h3>🚀 Specializations</h3>
+<h3> Specializations</h3>
 
 <ul>
   <li>
@@ -85,7 +85,7 @@ Engineer focused on <b>optimizing industrial and technological processes</b> thr
   </li>
 </ul>
 
-<h3>🛠️ Tech Stack</h3>
+<h3> Tech Stack</h3>
 
 <b>Data & Automation</b>
 
