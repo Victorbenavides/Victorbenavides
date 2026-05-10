@@ -20,7 +20,7 @@
       <h3>🇲🇽 Español</h3>
       Ingeniero enfocado en la <b>optimización de entornos industriales y tecnológicos</b>. Especialista en transformar datos crudos en decisiones estratégicas mediante el análisis de datos.
       <ul>
-        <li><b>Experiencia Industrial:</b> Gestión de datos maestros en SAP (MM, PP, SD) y mejora de procesos operativos</li>
+        <li><b>Experiencia:</b> Gestión de datos maestros en SAP (MM, PP, SD), análisis de datos y mejora de procesos.</li>
         <li><b>Core Técnico:</b> Diseño de dashboards para monitoreo de KPIs (Power BI) y automatización de reportes con Python/VBA.</li>
       </ul>
     </td>
@@ -28,7 +28,7 @@
       <h3>🇺🇸 English</h3>
       Engineer focused on <b>optimizing industrial and technological environments</b>. Specialist in transforming raw data into strategic decisions through data analysis.
       <ul>
-        <li><b>Industrial Experience:</b> SAP Master Data management (MM, PP, SD) and operational process improvement.</li>
+        <li><b>Experience:</b> SAP Master Data management (MM, PP, SD), data analysis and process improvement.</li>
         <li><b>Technical Core:</b> KPI monitoring dashboard design (Power BI) and reporting automation with Python/VBA.</li>
       </ul>
     </td>
