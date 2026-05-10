@@ -18,18 +18,18 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🇲🇽 Español</h3>
-      Ingeniero enfocado en la <b>optimización de entornos industriales y tecnológicos</b>. Especialista en transformar datos crudos en decisiones estratégicas mediante IA, automatización y análisis en SAP
+      Ingeniero enfocado en la <b>optimización de entornos industriales y tecnológicos</b>. Especialista en transformar datos crudos en decisiones estratégicas mediante el análisis de datos.
       <ul>
-        <li><b>Experiencia Industrial:</b> Gestión de datos maestros en SAP (MM, PP, SD) y mejora de procesos operativos</li>
-        <li><b>Core Técnico:</b> Creación de Dashboards (OEE/KPIs), modelos de Machine Learning y automatización con Python/VBA.</li>
+        <li><b>Experiencia:</b> Gestión de datos maestros en SAP (MM, PP, SD), análisis de datos y mejora de procesos.</li>
+        <li><b>Core Técnico:</b> Diseño de dashboards para monitoreo de KPIs (Power BI/Excel) y automatización de reportes con Python/VBA.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🇺🇸 English</h3>
-      Engineer focused on <b>optimizing industrial and technological environments</b>. Specialist in transforming raw data into strategic decisions through AI, automation, and SAP analysis.
+      Engineer focused on <b>optimizing industrial and technological environments</b>. Specialist in transforming raw data into strategic decisions through data analysis.
       <ul>
-        <li><b>Industrial Experience:</b> SAP Master Data management (MM, PP, SD) and operational process improvement.</li>
-        <li><b>Technical Core:</b> Dashboard creation (OEE/KPIs), Machine Learning models, and automation with Python/VBA.</li>
+        <li><b>Experience:</b> SAP Master Data management (MM, PP, SD), data analysis and process improvement.</li>
+        <li><b>Technical Core:</b> KPI monitoring dashboard design (Power BI, Excel) and reporting automation with Python/VBA.</li>
       </ul>
     </td>
   </tr>
