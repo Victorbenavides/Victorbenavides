@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Data Analyst | BI Developer | Automation Engineer</b>
+  <b>Data Analyst | AI Engineer</b>
 </p>
 
 <div align="center">
