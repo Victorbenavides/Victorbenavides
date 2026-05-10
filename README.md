@@ -68,8 +68,8 @@
 <hr>
 
 <p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=victorbenavides&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=victorbenavides&theme=chartreuse-dark" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorbenavides&count_private=true&show_icons=true&&theme=tokyonight&include_all_commits=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=victorbenavides&theme=tokyonight" width="400">
 </p>
 
 ---
