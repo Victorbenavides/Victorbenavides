@@ -4,6 +4,7 @@
 
 <p align="center">
   <b>Ingeniero en Inteligencia Artificial | Analista de Datos </b>
+  <b>AI Engineer | Data Analyst </b>
 </p>
 
 <div align="center">
