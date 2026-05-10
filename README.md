@@ -52,9 +52,10 @@
   <img src="https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi&logoColor=F2C811" />
   <img src="https://img.shields.io/badge/-Excel_VBA-05122A?style=flat&logo=microsoft-excel&logoColor=217346" />
   <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
-**Full Stack Development**
+**Development**
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB" />
